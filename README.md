@@ -36,7 +36,7 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 # Netbeans
 
 ## Using system fonts
-In netbeans directory go to the etc sub directory and open netbeans.conf  
+In netbeans directory go to the /etc sub directory and open netbeans.conf  
 find netbeans_default_options and replace with  
 ```
 netbeans_default_options="-J-client -J-Xss2m -J-Xms32m -J-Dapple.laf.useScreenMenuBar=true -J-Dapple.awt.graphics.UseQuartz=true -J-Dsun.java2d.noddraw=false -J-Dsun.java2d.dpiaware=true -J-Dsun.zip.disableMemoryMapping=true --fontsize 16 -J-Dawt.useSystemAAFontSettings=on"
