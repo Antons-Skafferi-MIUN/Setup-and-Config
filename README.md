@@ -1,4 +1,4 @@
-# setup
+# Setup
 Environment setup guide
 
 # Requirements
