@@ -8,6 +8,7 @@ It's crucial we all use the same environment
 
 * Java SDK 8
 This must be installed before installing netbeans.  
+
 for pacman:  
 ```bash
 $sudo pacman -S jdk8-openjdk
