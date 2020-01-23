@@ -9,7 +9,9 @@ It's crucial we all use the same environment
 * Java SDK 8
 This must be installed before installing netbeans.  
 for pacman:  
-    $sudo pacman -S jdk8-openjdk
+```bash
+$sudo pacman -S jdk8-openjdk
+```
 * Java EE 7
 * GlassFish 4.1.1  
 http://download.oracle.com/glassfish/4.1.1/release/glassfish-4.1.1-web.zip  
