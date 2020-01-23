@@ -1,6 +1,8 @@
 # Setup
 Environment setup guide
 
+I recommend we use the [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
+
 # Requirements
 It's crucial we all use the same environment
 
