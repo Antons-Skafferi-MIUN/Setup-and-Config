@@ -14,4 +14,5 @@ Can also be installed when installing netbeans 8.2
 * NetBeans 8.2  
 https://netbeans.org/downloads/8.2/ Java EE
 Make sure to install JDK 1.8, that is JDK 8 when installing netbeans.  
-* JavaDB
+* JavaDB  
+* JavaServer Faces JSF 2.2   
