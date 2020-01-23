@@ -27,4 +27,4 @@ Make sure you have installed JDK 1.8, that is JDK 8 before installing netbeans.
 # Mobile development
 
 * Android studio  
-⋅⋅* Android 4.4 (API level 19)
+Android 4.4 (API level 19)
