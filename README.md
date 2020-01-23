@@ -7,6 +7,9 @@ I recommend we use the [Feature Branch Workflow](https://www.atlassian.com/git/t
 It's crucial we all use the same environment
 
 * Java SDK 8
+This must be installed before installing netbeans.  
+for pacman:
+    $sudo pacman -S jdk8-openjdk
 * Java EE 7
 * GlassFish 4.1.1  
 http://download.oracle.com/glassfish/4.1.1/release/glassfish-4.1.1-web.zip  
