@@ -24,7 +24,10 @@ Make sure you have installed JDK 1.8, that is JDK 8 before installing netbeans.
 * JavaDB  
 * JavaServer Faces JSF 2.2   
 
-# Mobile development
+## Mobile development
 
 * Android studio  
 Android 4.4 (API level 19)
+
+# markdown cheatsheet
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
