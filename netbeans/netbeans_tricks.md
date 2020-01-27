@@ -1,4 +1,9 @@
-## Automatically creating a persistence context(requries a persistance manager)  
+## Creating a persistance unit
+Second mouse button on your project, hit "new" then "other"  
+In "Filter" type "persistance unit" then hit "next"  
+set the "data source" to your database, if your database don't exist choose "New Data Source..."  
+
+## Automatically creating a persistence context(requries a persistance unit)  
 
 Click second mouse button anywhere in the text editor inside your managed bean.  
 Select "insert code" then choose "use entity manager" 
