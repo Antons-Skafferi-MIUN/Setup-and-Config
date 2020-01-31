@@ -3,4 +3,5 @@ There exist test files in this repo that you should download and test on your co
   
 Simon Bertlin  
 Viktor Rosvall  
-Mattias Åhlander
+Mattias Åhlander  
+Rosen Tenov
