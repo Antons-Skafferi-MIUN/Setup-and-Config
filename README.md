@@ -7,6 +7,7 @@ and
 ```
 Setup-and-Config/Java/CompilationTest/WebAppTest/
 ```
+After everythings compiles successfully make sure to add your name to the checklist.md
 
 # Development workflow
 I recommend we use the [Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow). Each new feature a person is working on should be made in a new branch. These branches should ideally never be more than a few days old as the features should be small and quick to implement. The person working on the feature will make a pull-request to merge the finished feature into the master branch once it's completed. This way the master branch will only ever contain working code. 
