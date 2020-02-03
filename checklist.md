@@ -7,3 +7,4 @@ There exist test files in this repo that you should download and test on your co
 * Rosen Tenov
 * Lukas Johansson
 * Jonathan Ek
+* Maria Olsson
