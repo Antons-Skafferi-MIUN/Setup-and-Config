@@ -8,3 +8,4 @@ There exist test files in this repo that you should download and test on your co
 * Lukas Johansson
 * Jonathan Ek
 * Maria Olsson
+* Joakim Sjöquist
