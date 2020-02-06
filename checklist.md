@@ -9,3 +9,5 @@ There exist test files in this repo that you should download and test on your co
 * Jonathan Ek
 * Maria Olsson
 * Joakim Sjöquist
+* Malik Musovic
+
