@@ -30,6 +30,8 @@ The pull-request will start a new thread where you can discuss your implementati
 
 You can use `$git fetch`to fetch a list of other people's branches. 
 
+## Git mass pull
+There is a script available (pullall.sh) in this repo that can pull all repos that exist in the same folder. This requires that you have a folder, for instance Antons-Skafferi, where you have all the repos cloned. The script then goes to it's parent directory, loops through all the repo directories and pulls them.
 # Requirements
 It's crucial we all use the same environment
 
