@@ -68,3 +68,10 @@ find netbeans_default_options and replace with
 ```
 netbeans_default_options="-J-client -J-Xss2m -J-Xms32m -J-Dapple.laf.useScreenMenuBar=true -J-Dapple.awt.graphics.UseQuartz=true -J-Dsun.java2d.noddraw=false -J-Dsun.java2d.dpiaware=true -J-Dsun.zip.disableMemoryMapping=true --fontsize 16 -J-Dawt.useSystemAAFontSettings=on"
 ```
+
+# Keybase
+
+## Controlling notifications
+If you think you're getting too many notifications from keybase, turn off those that you do not need. Go to each channel and click the "i" at the top right -> Settings and there you can set the notifications as you'd like them.
+
+Some tips would be to turn off all notifications on the Git channels (since they're for the bot) and use "Only when @mentioned" in the group channels of which you do not belong (maybe even in general and planning). Your own group's channel might be useful to show all notifications for.
